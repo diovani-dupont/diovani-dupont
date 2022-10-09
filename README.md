@@ -4,7 +4,7 @@
 
 - Sou formado originalmente em Agrimensura e fui Diretor de Negócios e Operações com histórico de 20 anos atuando em vendas, suporte técnico e prestação de serviços no mercado de geotecnologia especializado em Mapeamento e SIG, Levantamento, High End e Drone Mapping.
 
-- Atualmente trabalho na empresa GPS Sul Agrimensura Digital no qual sou um dos sócios proprietários e responsável por desenvolver todo o portfólio de serviços da empresa.
+- Atualmente trabalho na empresa GPS Sul Agrimensura Digital no qual sou um dos sócios proprietários e responsável por desenvolver o portfólio de serviços da empresa.
 
 - Técnicas e ferramentas: Python, SQL, Docker, Cloud, GCP, Databricks.
 
