@@ -1,12 +1,14 @@
 ### Olá!!!
 
-- Meu nome é Diovani Dewes Dupont, atualmente estou estudando Análise e Desenvolvimento de Sistemas e sou apaixonado por Machine Learning e aplicações de IA.
+- Profissional da área de geotecnologias com experiência de 20 anos de mercado, cursando a faculdade de Análise e Desenvolvimento de Sistemas e Comércio Exterior.
 
-- Sou formado originalmente em Agrimensura e fui Diretor de Negócios e Operações com histórico de 20 anos atuando em vendas, suporte técnico e prestação de serviços no mercado de geotecnologia especializado em Mapeamento e SIG, Levantamento, High End e Drone Mapping.
+- Formado originalmente em Agrimensura atuando no mercado em vendas, suporte técnico, treinamentos e prestação de serviços especializados em Mapeamento e SIG, High End e Drone Mapping.
 
-- Última colocação profissional foi na empresa GPS Sul Agrimensura Digital como sócio fundador e responsável por desenvolver todo portfólio produtos e serviços da empresa.
+- Última colocação profissional foi na empresa GPS Sul Agrimensura Digital como sócio fundador e responsável por desenvolver portfólio produtos e serviços da empresa.
 
-- Técnicas e ferramentas: Python, SQL, Docker, Cloud, GCP, Databricks.
+- Apaixonado por tecnologia busco aprender, resolver problemas e ganhar experiência profissional na área de Análise e Desenvolvimento de Sistemas, de forma efetiva e criativa em uma posição completamente nova e desafiadora a longo prazo.
+
+- Técnicas e ferramentas: Python, Jupyter Notebook, MySQL, Cloud, GCP, IBM Cloud, AWS, Docker.
 
 - Como entrar em contato comigo: 
 
