@@ -1,20 +1,20 @@
 ### Olá!!!
 
-- Profissional da área de geotecnologias com experiência de 20 anos de mercado, cursando a faculdade de Análise e Desenvolvimento de Sistemas e Comércio Exterior.
+- Professional in the field of geotechnology with 20 years of experience in the market, studying at the Faculty of Analysis and Development of Systems and Foreign Trade.
 
-- Formado originalmente em Agrimensura atuando no mercado em vendas, suporte técnico, treinamentos e prestação de serviços especializados em Mapeamento e SIG, High End e Drone Mapping.
+- Originally trained in Surveying, working in the market in sales, technical support, training and specialized services in Mapping and GIS, High End and Drone Mapping.
 
-- Última colocação profissional foi na empresa GPS Sul Agrimensura Digital como sócio fundador e responsável por desenvolver portfólio produtos e serviços da empresa.
+- Last professional placement was at the company GPS Sul Agrimeamento Digital as founding partner and responsible for developing the company's portfolio of products and services.
 
-- Apaixonado por tecnologia busco aprender, resolver problemas e ganhar experiência profissional na área de Análise e Desenvolvimento de Sistemas, de forma efetiva e criativa em uma posição completamente nova e desafiadora a longo prazo.
+- Passionate about technology, I seek to learn, solve problems and gain professional experience in the area of Systems Analysis and Development, in an effective and creative way in a new and challenging position.
 
-- Técnicas e ferramentas: Python, Jupyter Notebook, MySQL, Cloud, GCP, IBM Cloud, AWS, Docker.
+- Techniques and tools: Python, Java, SQL, MySQL, IBM Cloud, AWS, MongoDB, Docker, Pandas, Numpy.
 
-- Como entrar em contato comigo: 
+- How to contact me:
 
 E-mail: diovani@dewesdupont.com.br | [LinkedIn](https://www.linkedin.com/in/diovani-dupont/)
 
-Confira meu site com projetos que desenvolvi na área de geotecnologia | [SITE](https://www.gpssul.com.br/) .
+Check out my website with projects I've developed in the area of geotechnology | [SITE](https://www.gpssul.com.br/) .
 
 <div align="center">
   <img height="198em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diovani-dupont&theme=dracula" />
