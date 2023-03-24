@@ -14,7 +14,7 @@
 
 E-mail: diovani@dewesdupont.com.br | [LinkedIn](https://www.linkedin.com/in/diovani-dupont/)
 
-Check out my website with projects I've developed in the area of geotechnology | [SITE](https://www.gpssul.com.br/) .
+Check out my medium with data science projects | [SITE]([https://www.gpssul.com.br/](https://medium.com/@diovani.dupont/web-scraping-eda-e-modelo-para-previs%C3%A3o-de-pre%C3%A7os-3c4cf24e252e)) .
 
 <div align="center">
   <img height="198em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diovani-dupont&theme=dracula" />
