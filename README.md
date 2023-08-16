@@ -1,20 +1,22 @@
 ### Hello!!!
 
-- Professional in the field of geotechnology with 20 years of experience in the market, studying at the Faculty of Analysis and Development of Systems and Foreign Trade.
+- Professional majoring in Systems Analysis/Development and International Business/Foreign Trade, in a career transition phase, looking for an opportunity in the Data and/or Technology area where I can improve and expand my knowledge, always aiming for a good qualification professional.
+- Know-how in analysis, extraction, treatment and manipulation of data, with the preparation of management reports, graphs, monitoring of performance indicators and provision of subsidies to support strategic decision-making.
+- Academic technical knowledge in data science, big data, machine learning, artificial intelligence and back-end development, relying on the use of languages/tools and technologies: Programming Languages: Python, SQL, R and Java; Python libraries: Pandas, Numpy, Matplotlib, Scipy, Seaborn and TensorBoard; Big Data Tools: Apache Hadoop, HDFS, Apache Spark, MapReduce, YARN, Hive, Data Lake, Docker, Spark Streaming, Spark GraphX, MLlib, Spark SQL and Databricks. Machine Learning Tools: TensorFlow, Keras, PyTorch, Scikit-learn, Naive Bayes, Linear Regression, Decision Trees, Random Forest, Neural Networks, Support Vector Machines (SVM) and Recommendation; Relational Databases: MySQL, Oracle Database, Postgres/SQL and IBM Db2; Non-Relational Databases: MongoDB, Amazon DynamoDB and Redis.
+- Active participation in the development of new projects/solutions, also carrying out research and analysis of trends and economic-financial market factors, identifying business opportunities and developing strategies to ensure the proper functioning of the operation.
+- Professional highly qualified to work in a team, dynamic, with initiative, ease of learning and good interpersonal skills, dedicated to functions, focused on results and cost reduction. Organized, responsible and flexible.
 
-- Originally trained in Surveying, working in the market in sales, technical support, training and specialized services in Mapping and GIS, High End and Drone Mapping.
-
-- Last professional placement was at the company GPS Sul Agrimeamento Digital as founding partner and responsible for developing the company's portfolio of products and services.
-
-- Passionate about technology, I seek to learn, solve problems and gain professional experience in the area of Systems Analysis and Development, in an effective and creative way in a new and challenging position.
-
-- Techniques and tools: Python, Java, SQL, MySQL, IBM Cloud, AWS, MongoDB, Docker, Pandas, Numpy.
+- Keywords: Data analysis, data extraction, data processing, database, database, data manipulation, big data, business intelligence, management reports, charts, indicators, machine learning, artificial intelligence, technology, development solutions, back-end development, Python, SQL, R, Java, Pandas, Numpy, Matplotlib, Scipy, Seaborn, TensorBoard, Apache Hadoop, HDFS, Apache Spark, MapReduce, YARN, Hive, Data Lake, Docker, Spark Streaming, Spark GraphX, MLlib, Spark SQL, Databricks, TensorFlow, Keras, PyTorch, Scikit-learn, Naive Bayes, Linear Regression, Decision Trees, Random Forest.
 
 - How to contact me:
 
-E-mail: diovani@dewesdupont.com.br | [LinkedIn](https://www.linkedin.com/in/diovani-dupont/)
+- E-mail: diovani@dewesdupont.com.br | [LinkedIn](https://www.linkedin.com/in/diovani-dupont/)
 
-Check out my medium with data science projects | [SITE](https://medium.com/@diovani.dupont/web-scraping-eda-e-modelo-para-previs%C3%A3o-de-pre%C3%A7os-3c4cf24e252e) .
+- Check out my website with a portfolio of projects I've developed | [SITE](https://diovani-dupont.github.io/home/)
+  
+- Check out my Kaggle | [SITE](https://www.kaggle.com/diodupont)
+
+- Check out my medium with data science projects | [SITE](https://medium.com/@diovani.dupont/web-scraping-eda-e-modelo-para-previs%C3%A3o-de-pre%C3%A7os-3c4cf24e252e)
 
 <div align="center">
   <img height="198em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diovani-dupont&theme=dracula" />
