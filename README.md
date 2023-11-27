@@ -12,7 +12,7 @@
 
 - E-mail: diovani@dewesdupont.com.br | [LinkedIn](https://www.linkedin.com/in/diovani-dupont/)
 
-- Check out my website with a portfolio of projects I've developed | [SITE](https://diovani-dupont.github.io/home/)
+- Check out my website with a portfolio of projects I've developed | [SITE](https://diovani-dupont.github.io/)
   
 - Check out my Kaggle | [SITE](https://www.kaggle.com/diodupont)
 
