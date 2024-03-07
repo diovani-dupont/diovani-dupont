@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github.com/diovani-dupont/diovani-dupont/assets/109030838/3abff688-2e3b-4540-ba38-d11f48ab815d" alt="diovani" width="600">
+</p>
+
+
 ### Hello!!!
 
 - Professional graduated in Systems Analysis/Development with training in International Business/Foreign Trade, looking for an opportunity in the Data and/or Technology area where I can improve and expand my knowledge, always aiming for a good professional qualification.
