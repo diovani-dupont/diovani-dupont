@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/diovani-dupont/diovani-dupont/assets/109030838/7e5ad663-ca4a-4f20-81ad-8df49093c9dd" alt="diovani" width="600">
+<img src="https://github.com/diovani-dupont/diovani-dupont/assets/109030838/7e5ad663-ca4a-4f20-81ad-8df49093c9dd" alt="diovani" width="900">
 </p>
 
 
