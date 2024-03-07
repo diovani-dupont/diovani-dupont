@@ -2,9 +2,6 @@
 <img src="https://github.com/diovani-dupont/diovani-dupont/assets/109030838/7e5ad663-ca4a-4f20-81ad-8df49093c9dd" alt="diovani" width="900">
 </p>
 
-
-### Hello!!!
-
 - Professional graduated in Systems Analysis/Development with training in International Business/Foreign Trade, looking for an opportunity in the Data and/or Technology area where I can improve and expand my knowledge, always aiming for a good professional qualification.
 - Know-how in analysis, extraction, treatment and manipulation of data, with the preparation of management reports, graphs, monitoring of performance indicators and provision of subsidies to support strategic decision-making.
 - Academic technical knowledge in data science, big data, machine learning, artificial intelligence and back-end development, relying on the use of languages/tools and technologies: Programming Languages: Python, SQL, R and Java; Python libraries: Pandas, Numpy, Matplotlib, Scipy, Seaborn and TensorBoard; Big Data Tools: Apache Hadoop, HDFS, Apache Spark, MapReduce, YARN, Hive, Data Lake, Docker, Spark Streaming, Spark GraphX, MLlib, Spark SQL and Databricks. Machine Learning Tools: TensorFlow, Keras, PyTorch, Scikit-learn, Naive Bayes, Linear Regression, Decision Trees, Random Forest, Neural Networks, Support Vector Machines (SVM) and Recommendation; Relational Databases: MySQL, Oracle Database, Postgres/SQL and IBM Db2; Non-Relational Databases: MongoDB, Amazon DynamoDB and Redis.
