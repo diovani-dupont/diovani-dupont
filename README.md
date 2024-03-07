@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://github.com/diovani-dupont/diovani-dupont/assets/109030838/3abff688-2e3b-4540-ba38-d11f48ab815d" alt="diovani" width="600">
+<img src="https://github.com/diovani-dupont/diovani-dupont/assets/109030838/bab27338-b0ab-4952-a8bb-266e1d2f7614" alt="diovani" width="600">
 </p>
-
 
 ### Hello!!!
 
