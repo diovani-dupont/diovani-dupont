@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/diovani-dupont/diovani-dupont/assets/109030838/7e5ad663-ca4a-4f20-81ad-8df49093c9dd" alt="diovani" width="900">
+<img src="https://github.com/user-attachments/assets/081a0bdb-6e75-4c04-b1fa-b88c0efc141a" alt="diovani" width="900">
 </p>
 
 - Professional graduated in Systems Analysis/Development with training in International Business/Foreign Trade, looking for an opportunity in the Data and/or Technology area where I can improve and expand my knowledge, always aiming for a good professional qualification.
